@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&height=100&lines=Nice+to+meet+you!Hello+There!;I+am+Nishita+Sarker+...;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&height=100&lines=Hello,+there!+👋;I+am+Nishita+Sarker...;Nice+to+meet+you!" alt="Typing SVG" />
 </h1>
 
 ---
@@ -52,7 +52,7 @@ This project leverages modern web technologies and industry-standard tools:
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishitasarker&show_icons=true&count_private=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nishitasarker&show_icons=true&theme=radical&bg_color=0D1117&title_color=007ACC&icon_color=007ACC" />
 </p>
 
 <p align="center">
