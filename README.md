@@ -1,8 +1,8 @@
-<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/d1cb157e-81e1-4e07-aa5b-b8014ef6739e" />
+<img width="1024" height="350" alt="image" src="https://github.com/user-attachments/assets/d1cb157e-81e1-4e07-aa5b-b8014ef6739e" />
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&height=100&lines=Hello+There!;I+am+Nishita+Sarker;Nice+to+meet+you!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&height=100&lines=Hello+There!;I+am+Nishita+Sarker+.+.+.;Nice+to+meet+you!" alt="Typing SVG" />
 </h1>
 
 ---
