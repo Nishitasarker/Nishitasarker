@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&height=100&lines=Hello+There!;I+am+Nishita+Sarker+.+.+.;Nice+to+meet+you!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&height=100&lines=Nice+to+meet+you!Hello+There!;I+am+Nishita+Sarker+...;" alt="Typing SVG" />
 </h1>
 
 ---
@@ -15,10 +15,26 @@ Currently exploring **React & Next.js**.
 
 ### 🔧 Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs" height="300" width="300"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,daisyui,nodejs,nextjs" alt="My Skills" />
 </p>
-
 ---
+
+## 🛠 Tech Stack & Tools
+This project leverages modern web technologies and industry-standard tools:
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+* **Core Framework:** React.js
+* **Styling:** Tailwind CSS & DaisyUI
+* **Version Control:** Git & GitHub
+* **Environment:** Node.js with NPM
+* **Editor:** Visual Studio Code (VS Code)
 
 ### 🌐 Connect with me
 <p align="left">
