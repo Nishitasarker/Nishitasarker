@@ -15,7 +15,7 @@ Currently exploring **React & Next.js**.
 
 ### 🔧 Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,daisyui,nodejs,nextjs" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,nextjs" alt="My Skills" />
 </p>
 ---
 
@@ -52,7 +52,11 @@ This project leverages modern web technologies and industry-standard tools:
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishitasarker&show_icons=true&theme=radical&bg_color=0D1117&title_color=007ACC&icon_color=007ACC" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishitasarker&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishitasarker&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
